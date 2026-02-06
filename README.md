@@ -1,2 +1,11 @@
-# study-recommendation-neural-network
-Machine Learning Project that uses a feedforward neural network, the system analyzes student inputs, examples being, study time, attendance, sleep, and exam proximity to generate an ideal personal study plan recommendation
+# Neural Network Study Recommendation System
+
+## Description
+This project uses a neural network to classify students into academic risk levels (Low, Medium, High) based on study habits and contextual features. The model is implemented using PyTorch and is designed as a reproducible machine learning pipeline. Based on the predicted risk level, the system outputs a recommended study plan.
+
+## Requirements
+- Python 3.9 or later
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
