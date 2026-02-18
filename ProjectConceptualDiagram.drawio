@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Page-1" id="s3B3REq6obJVi7BjKISP">
+    <mxGraphModel dx="1708" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="User" vertex="1">
+          <mxGeometry height="919" width="150" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="React Frontend" vertex="1">
+          <mxGeometry height="919" width="150" x="366" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="FastAPI Backend" vertex="1">
+          <mxGeometry height="919" width="150" x="639" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="PyTorch NN Model" vertex="1">
+          <mxGeometry height="919" width="152" x="851" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Counterfactual Engine" vertex="1">
+          <mxGeometry height="919" width="174" x="1102" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-6" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0" value="" vertex="1">
+          <mxGeometry height="179" width="235" x="703" y="203" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-7" parent="zmsVZnuTFd3M5HHRwVkZ-6" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="20" width="235" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-8" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" value="loop" vertex="1">
+          <mxGeometry height="155" width="284" x="916" y="517" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-9" parent="zmsVZnuTFd3M5HHRwVkZ-8" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="[Variation Testing]" vertex="1">
+          <mxGeometry height="20" width="244" x="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-10" parent="1" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=0" value="" vertex="1">
+          <mxGeometry height="344" width="747" x="703" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-11" parent="zmsVZnuTFd3M5HHRwVkZ-10" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="20" width="747" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-12" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-2" value="Inputs habits (Sleep, Study, Attendance)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="277" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-13" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-3" value="POST /predict (Habit Data)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="586" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-14" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-4" value="Run Inference">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="829" y="308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-15" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-3" value="Academic Risk Score">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="832" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-16" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-5" value="Request Optimization">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-17" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-4" value="Test habit + 1hr (e.g., Sleep)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-18" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-5" value="New Score">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1067" y="652" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-19" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-5" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-3" value="Best habit adjustment identified">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="963" y="716" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-20" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-3" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-2" value="Risk Score + Personalized Tip">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="589" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-21" edge="1" parent="1" source="zmsVZnuTFd3M5HHRwVkZ-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="zmsVZnuTFd3M5HHRwVkZ-1" value="Display Recommendation Dashboard">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-22" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;" value="Initial Prediction" vertex="1">
+          <mxGeometry height="51" width="150" x="739" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="zmsVZnuTFd3M5HHRwVkZ-23" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;" value="Prescriptive Logic (The &quot;Tips&quot;)" vertex="1">
+          <mxGeometry height="51" width="226" x="1214" y="412" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
